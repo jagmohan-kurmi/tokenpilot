@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use TokenPilot in your work, please cite it."
+title: TokenPilot
+version: 0.1.0
+authors:
+  - family-names: Kurmi
+    given-names: Jagmohan
+url: https://github.com/jagmohan-kurmi/tokenpilot
+license: MIT
